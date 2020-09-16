@@ -1,0 +1,21 @@
+{
+  "name": "readmegenerator",
+  "version": "0.0.1",
+  "description": "program that professionally generates a readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isac Pederson",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "readme",
+    "generator",
+    "program"
+  ]
+}
